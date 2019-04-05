@@ -1,0 +1,4 @@
+TiDB
+Canal
+Binlog->Canal->
+消息防丢失：ACK 
