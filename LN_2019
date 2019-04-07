@@ -1,4 +1,4 @@
 TiDB
 Canal
 Binlog->Canal->
-消息防丢失：ACK 
+避免消息丢失：ACK 
